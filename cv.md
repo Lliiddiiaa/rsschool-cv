@@ -1,15 +1,43 @@
-#Lidia Murashko
+# Lidia Murashko
 
-##Contacts
+## Contacts
 
-##About me
+- Location: Minsk, Belarus
+- Phone: +375 44 5682419
+- Email: 7697442@mail.com
+- GitHub: https://github.com/Lliiddiiaa
 
-##Skills
+## About me
 
-##Code example
+BNTU student with the desire to become a developer. Learn HTML/CSS,JS, try to gain new knowledge every day. 
 
-##Experience
+## Skills
 
-##Education
+- HTML/CSS
+- Basic JavaScript
+- Git
 
-##English
+## Code example
+
+let a = 100;
+let sum=0;
+
+for (let i = 1; i <= a; i++ ) {
+    sum += i;
+}
+
+console.log (sum);
+
+## Experience
+
+## Education
+
+### College:
+College of Languages and Humanities
+
+###Univercity: 
+BNTU, FMME
+
+## English
+
+B1
