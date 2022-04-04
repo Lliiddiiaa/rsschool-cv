@@ -1,1 +1,29 @@
-style.css
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 36px;
+}
+
+h2 {
+    color: blue;
+    font-size: 24px;
+}
+
+h3 {
+    color: green;
+    font-size: 18px;
+}
+
+h1,
+h2,
+h3 {
+    margin: 20px;
+}
+
+p {
+    margin-left: 30px;
+}
