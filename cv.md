@@ -35,7 +35,7 @@ console.log (sum);
 ### College:
 College of Languages and Humanities
 
-###Univercity: 
+### University: 
 BNTU, FMME
 
 ## English
